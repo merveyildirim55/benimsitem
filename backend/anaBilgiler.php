@@ -115,10 +115,7 @@ include 'header.php';
 
 <?php 
 
-include 'footer.php';,,
-3333
+include 'footer.php';
 
-
-32
 }else         Header("Location:../kulLog.php?durum=hataa");
 ?>
